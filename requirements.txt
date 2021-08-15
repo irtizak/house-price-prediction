@@ -6,6 +6,7 @@ attrs==21.2.0
 Babel==2.9.1
 backcall==0.2.0
 bleach==4.0.0
+category-encoders==2.2.2
 certifi==2021.5.30
 cffi==1.14.6
 charset-normalizer==2.0.4
@@ -68,6 +69,7 @@ Send2Trash==1.8.0
 six==1.16.0
 sniffio==1.2.0
 statsmodels==0.12.2
+tabulate==0.8.9
 terminado==0.11.0
 testpath==0.5.0
 threadpoolctl==2.2.0
